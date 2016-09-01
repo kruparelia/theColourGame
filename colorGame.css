@@ -1,5 +1,5 @@
 body{
-    background-color: #232323;
+    background: #232323;
 }
 
 h1{
@@ -17,4 +17,8 @@ h1{
 #container{
     max-width: 600px;
     margin: 0 auto;
+}
+
+span{
+    color: white;
 }
